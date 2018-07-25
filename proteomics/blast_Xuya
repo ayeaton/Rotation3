@@ -1,0 +1,62 @@
+library(seqinr)
+
+blast_out <- read.table("/Users/anna/Documents/GitHub/Rotation3/LINE1vuniprot_tofilter.txt")
+colnames(blast_out) <- c("Line1", "match", "percent_ident", "number_ident", "cov", "eval")
+
+hist(blast_out$number_ident, 100, xlab = "Number of identical matches", main = "Histogram of number of identical matches (initial)")
+hist(blast_out$percent_ident, 100, xlab = "Percentage of identical matches", main = "Histogram of percentages of identical matches (initial)")
+hist(blast_out$cov, 100, xlab = "Query Coverage Per Subject ", main = "Histogram of Query Coverage Per Subject (initial)")
+
+###If the protein has above 45% ident, 45 number ident, or 65 coverage then I got rid of it. 
+
+#protein names with hits with more than 45% ident
+rid_blast_percent <- as.data.frame(unique(blast_out$match[which(blast_out$percent_ident > 45)]))
+colnames(rid_blast_percent) <- "rid"
+
+#protein names with hits with more than 45 identical
+rid_blast_number <- as.data.frame(unique(blast_out$match[which(blast_out$number_ident > 45)]))
+colnames(rid_blast_number) <- "rid"
+
+#protein names with hits with more than 65 query cov
+rid_blast_cov <- as.data.frame(unique(blast_out$match[which(blast_out$cov > 65)]))
+colnames(rid_blast_cov) <- "rid"
+
+#outer join, results in a list of proteins with either more than 45% indent, 45 ident, or 65 qcov
+merge_names <- merge(rid_blast_number, rid_blast_percent,all=T)
+merge_names2 <- merge(merge_names, rid_blast_cov, all=T)
+
+#look at values of the proteins that are discarded
+pos_blast <- which(as.character(blast_out$match) %in% as.matrix(merge_names2))
+View(blast_out[pos_blast,])
+
+#look at dist of hist that pass the thresholds
+keep_blast <- blast_out[-pos_blast,]
+hist(keep_blast$cov, 100, xlab = "Query Coverage Per Subject", main= "Histogram of Query Coverage Per Subject (final)")
+hist(keep_blast$percent_ident, 100, xlab = "Percentage of identical matches", main= "Histogram of percentages of identical matches (final)")
+hist(keep_blast$number_ident, 100, xlab = "Number of identical matches", main= "Histogram of number of identical matches (final)")
+
+#read in fasta
+uniprot <- read.fasta("/Users/anna/Desktop/uniprot_human.fa", seqtype = "AA")
+
+#make sure my apply is working right 
+test <- apply(merge_names2, 1, function(x)print(paste(x, names(uniprot)[grep(x, names(uniprot))])))
+
+#get position of proteins to discard from the fasta file
+pos <- apply(merge_names2, 1, function(x)grep(x, names(uniprot)))
+#names(uniprot)[pos]
+
+#discard proteins
+keep <-uniprot[-pos]
+
+write.fasta(keep, names(keep), file.out = "filtered_uniprot_human2.fa")
+
+#reran blast on filtered_uniprot_human2.fa
+test_two <- read.fasta("/Users/anna/filtered_uniprot_human2.fa")
+
+blast_out2 <- read.table("/Users/anna/Desktop/LINE1vuniprot_7.txt")
+colnames(blast_out2) <- c("Line1", "match", "percent_ident", "number_ident", "cov", "eval")
+hist(blast_out2$number_ident[un_port], 100, xlab = "Number of identical matches", main = "Histogram of number of identical matches 2nd run")
+hist(blast_out2$percent_ident[un_port], 100, xlab = "Percentage of identical matches", main = "Histogram of percentages of identical matches 2nd run")
+hist(blast_out2$cov[un_port], 100, xlab = "Query Coverage Per Subject ", main = "Histogram of Query Coverage Per Subject 2nd run")
+
+View(blast_out2)
