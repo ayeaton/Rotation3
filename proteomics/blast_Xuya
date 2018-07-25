@@ -1,6 +1,8 @@
 library(seqinr)
 
-blast_out <- read.table("/Users/anna/Documents/GitHub/Rotation3/LINE1vuniprot_tofilter.txt")
+#blast_out <- read.table("/Users/anna/Documents/GitHub/Rotation3/LINE1vuniprot_tofilter.txt")
+blast_out <- read.table("/ifs/data/proteomics/projects/Anna/CPTAC/databases/LINE1vuniprot_blastp.txt")
+
 colnames(blast_out) <- c("Line1", "match", "percent_ident", "number_ident", "cov", "eval")
 
 hist(blast_out$number_ident, 100, xlab = "Number of identical matches", main = "Histogram of number of identical matches (initial)")
@@ -36,7 +38,8 @@ hist(keep_blast$percent_ident, 100, xlab = "Percentage of identical matches", ma
 hist(keep_blast$number_ident, 100, xlab = "Number of identical matches", main= "Histogram of number of identical matches (final)")
 
 #read in fasta
-uniprot <- read.fasta("/Users/anna/Desktop/uniprot_human.fa", seqtype = "AA")
+#uniprot <- read.fasta("/Users/anna/Desktop/uniprot_human.fa", seqtype = "AA")
+uniprot <- read.fasta("/ifs/data/proteomics/projects/Anna/CPTAC/databases/uniprot_human.fa", seqtype = "AA")
 
 #make sure my apply is working right 
 test <- apply(merge_names2, 1, function(x)print(paste(x, names(uniprot)[grep(x, names(uniprot))])))
@@ -53,7 +56,8 @@ write.fasta(keep, names(keep), file.out = "filtered_uniprot_human2.fa")
 #reran blast on filtered_uniprot_human2.fa
 test_two <- read.fasta("/Users/anna/filtered_uniprot_human2.fa")
 
-blast_out2 <- read.table("/Users/anna/Desktop/LINE1vuniprot_7.txt")
+#blast_out2 <- read.table("/Users/anna/Desktop/LINE1vuniprot_7.txt")
+blast_out2 <- read.table("/ifs/data/proteomics/projects/Anna/CPTAC/databases/LINE1vfiltereduniprot2_test.txt")
 colnames(blast_out2) <- c("Line1", "match", "percent_ident", "number_ident", "cov", "eval")
 hist(blast_out2$number_ident[un_port], 100, xlab = "Number of identical matches", main = "Histogram of number of identical matches 2nd run")
 hist(blast_out2$percent_ident[un_port], 100, xlab = "Percentage of identical matches", main = "Histogram of percentages of identical matches 2nd run")
