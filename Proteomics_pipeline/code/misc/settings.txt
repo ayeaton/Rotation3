@@ -1,0 +1,1 @@
+default_path=/ifs/data/proteomics/tcga/databases
