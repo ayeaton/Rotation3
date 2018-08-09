@@ -1,0 +1,14 @@
+#!/bin/bash
+#$ -cwd
+#$ -N simple_env
+
+MY_HOST=`hostname`
+MY_DATE=`date`
+echo "Running on $MY_HOST at $MY_DATE" 
+echo "Running environment:"
+env
+echo "================================================================"
+
+# Put your single-CPU script here 
+
+

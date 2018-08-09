@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<bioml label="x! taxon-to-file matching list">
+	<taxon label="human">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.1.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.2.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.3.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.4.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.5.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.6.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.7.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.8.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.9.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.10.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.11.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.12.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.13.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.14.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.15.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.16.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.17.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.18.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.19.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.20.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.21.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.22.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.MT.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.other.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.X.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.Y.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/human_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/human_saps.xml" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_1_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_2_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_3_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_4_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_5_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_6_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_7_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_8_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_9_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_10_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_11_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_12_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_13_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_14_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_15_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_16_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_17_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_18_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_19_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_20_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_21_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_22_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_X_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_Y_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_other_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_MT_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/crap_cmp_20.hlf"/>
+	</taxon>
+	<taxon label="human_female">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.1.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.2.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.3.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.4.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.5.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.6.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.7.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.8.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.9.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.10.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.11.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.12.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.13.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.14.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.15.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.16.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.17.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.18.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.19.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.20.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.21.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.22.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.MT.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.other.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.X.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/human_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/human_saps.xml" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_1_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_2_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_3_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_4_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_5_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_6_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_7_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_8_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_9_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_10_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_11_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_12_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_13_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_14_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_15_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_16_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_17_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_18_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_19_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_20_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_21_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_22_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_X_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_other_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_MT_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/crap_cmp_20.hlf"/>
+	</taxon>
+	
+	<taxon label="orf1_orf2_human">
+		<file format="peptide" URL="/ifs/data/proteomics/projects/Boeke/orf1_orf2.fasta" />
+		
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.1.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.2.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.3.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.4.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.5.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.6.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.7.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.8.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.9.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.10.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.11.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.12.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.13.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.14.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.15.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.16.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.17.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.18.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.19.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.20.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.21.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.22.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.MT.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.other.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.X.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.Y.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/human_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/human_saps.xml" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_1_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_2_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_3_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_4_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_5_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_6_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_7_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_8_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_9_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_10_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_11_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_12_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_13_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_14_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_15_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_16_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_17_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_18_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_19_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_20_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_21_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_22_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_X_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_Y_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_other_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_MT_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/crap_cmp_20.hlf"/>
+	</taxon>
+	
+	<taxon label="orf0_orf1_orf2_human">
+		<file format="peptide" URL="/ifs/data/proteomics/projects/Boeke/orf0_orf1_orf2.fasta" />
+		
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.1.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.2.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.3.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.4.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.5.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.6.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.7.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.8.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.9.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.10.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.11.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.12.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.13.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.14.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.15.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.16.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.17.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.18.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.19.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.20.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.21.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.22.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.MT.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.other.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.X.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/human/human_e.Y.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/human_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/human_saps.xml" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_1_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_2_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_3_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_4_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_5_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_6_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_7_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_8_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_9_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_10_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_11_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_12_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_13_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_14_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_15_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_16_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_17_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_18_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_19_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_20_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_21_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_22_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_X_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_Y_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_other_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/human/human_MT_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/crap_cmp_20.hlf"/>
+	</taxon>
+	
+	<taxon label="rat">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/rat_e.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/rat_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/rat_saps.xml" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/rat_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/crap_cmp_20.hlf"/>
+	</taxon>
+	<taxon label="mouse">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.1.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.2.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.3.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.4.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.5.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.6.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.7.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.8.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.9.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.10.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.11.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.12.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.13.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.14.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.15.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.16.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.17.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.18.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.19.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.MT.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.other.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.X.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.Y.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/mouse_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/mouse_saps.xml" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_1_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_2_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_3_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_4_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_5_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_6_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_7_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_8_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_9_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_10_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_11_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_12_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_13_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_14_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_15_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_16_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_17_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_18_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_19_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_X_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_Y_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_other_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_MT_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/crap_cmp_20.hlf"/>
+	</taxon>
+	<taxon label="mouse_female">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.1.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.2.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.3.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.4.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.5.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.6.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.7.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.8.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.9.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.10.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.11.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.12.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.13.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.14.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.15.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.16.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.17.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.18.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.19.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.MT.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.other.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/mouse/mouse_e.X.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/mouse_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/mouse_saps.xml" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_1_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_2_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_3_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_4_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_5_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_6_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_7_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_8_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_9_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_10_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_11_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_12_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_13_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_14_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_15_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_16_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_17_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_18_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_19_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_X_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_other_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/mouse/mouse_MT_cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/crap_cmp_20.hlf"/>
+	</taxon>
+	<taxon label="yeast">
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/yeast_cmp_20.hlf" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/crap_cmp_20.hlf" />
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/virus/Saccharomyces_cerevisiae_virus_L_A__L1__cmp_20.hlf"/>
+		<file format="spectrum" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/lib/virus/Saccharomyces_cerevisiae_virus_L_BC__La__cmp_20.hlf"/>
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/yeast_e.fasta.pro" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/virus/Saccharomyces_cerevisiae_virus_L_A_L1.fasta.pro"/>
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/virus/Saccharomyces_cerevisiae_virus_L_BC_La.fasta.pro"/>
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro"/>
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/yeast_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/yeast_saps.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+	</taxon>
+	
+	<taxon label="W2">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/CompRef-RNA-Seq/W2.fasta" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/human_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/human_saps.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/mouse_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/mouse_saps.xml" />
+	</taxon>
+	<taxon label="W16">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/CompRef-RNA-Seq/W16.fasta" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/human_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/human_saps.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/mouse_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/mouse_saps.xml" />
+	</taxon>
+	
+	<taxon label="W2F">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/CompRef-RNA-Seq/W2F.fasta" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/human_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/human_saps.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/mouse_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/mouse_saps.xml" />
+	</taxon>
+	<taxon label="W16F">
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/CompRef-RNA-Seq/W16F.fasta" />
+		<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/fasta/crap.fasta.pro" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/crap_mod.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/human_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/human_saps.xml" />
+		<file format="mods" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/mods/mouse_mod.xml" />
+		<file format="saps" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases/saps/mouse_saps.xml" />
+	</taxon>
+	
+	<taxon label="Rattus_norvegicus.Rnor_5.0.72">
+			<file format="peptide" URL="/ifs/data/proteomics/projects/rat/databases/Rattus_norvegicus.Rnor_5.0.72.pep.all.fasta" />
+	</taxon>
+	
+	<taxon label="Rattus_norvegicus.Rnor_5.0.72_extra">
+			<file format="peptide" URL="/ifs/data/proteomics/projects/rat/databases/Rattus_norvegicus.Rnor_5.0.72.pep.all.fasta" />
+			<file format="peptide" URL="/ifs/data/proteomics/projects/rat/databases/rate_extra.fasta" />
+	</taxon>
+	
+	<taxon label="Rattus_norvegicus.RGSC3.4.68_extra_step1">
+			<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/rat/Rattus_norvegicus.Rnor_5.0.72.pep.all.fasta" />
+			<file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/rat/rat_extra_step1.fasta" />
+	</taxon>
+	
+	<taxon label="Rattus_norvegicus.RGSC3.4.68_extra_step1_MMR">
+                <file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/rat/Rattus_norvegicus.Rnor_5.0.72.pep.all.fasta" />
+                <file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/rat/rat_extra_step1_MMR.fasta" />
+    </taxon>
+	
+	<taxon label="uniprot-mouse-reference-proteome">
+			<file format="peptide" URL="/ifs/data/proteomics/projects/rat/databases/uniprot-mouse-reference-proteome.fasta" />
+	</taxon>
+	<taxon label="uniprot-rat-reference-proteome">
+			<file format="peptide" URL="/ifs/data/proteomics/projects/rat/databases/uniprot-rat-reference-proteome.fasta" />
+	</taxon>
+	<taxon label="Mus_musculus.NCBIM37.67">
+			<file format="peptide" URL="/ifs/data/proteomics/projects/rat/databases/Mus_musculus.NCBIM37.67.pep.all.fasta" />
+	</taxon>
+	
+	<taxon label="rat_extra_step1_new">
+        <file format="peptide" URL="/ifs/data/proteomics/data/Fenyo/pipeline/Databases_Custom/rat/rat_extra_step1_new.fasta" />
+    </taxon>	
+
+	<taxon label="human_mouse_ensembl_71">
+			<file format="peptide" URL="/ifs/data/proteomics/tcga/databases/ensembl_human_original_37.68/proteome.fasta" />
+			<file format="peptide" URL="/ifs/data/proteomics/tcga/databases/ensembl_mouse_original_38.71/proteome.fasta" />
+			<file format="peptide" URL="/ifs/data/proteomics/tcga/databases/crap/proteome.fasta" />
+	</taxon>
+
+</bioml>
+
